@@ -1,0 +1,11 @@
+HTTP://localhost:3000/POKEMON/Ditto
+
+POST http://localhost:3000/POKEMON 
+Content-Type: application/json
+{
+  "name": "Ditto",
+  "type": "Normal",
+  "abilities": ["Limber", "Imposter"]
+  }
+}
+
